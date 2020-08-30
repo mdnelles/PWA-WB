@@ -1,0 +1,15 @@
+{
+   "name": "proj04",
+   "version": "1.0.0",
+   "description": "pwd",
+   "main": "app.js",
+   "scripts": {
+      "test": "test",
+      "buildsw": "npx workbox generateSW workbox-config.js"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "workbox": "0.0.0"
+   }
+}
